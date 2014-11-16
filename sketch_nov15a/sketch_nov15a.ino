@@ -16,7 +16,7 @@ unsigned long credits = 2000;
 const int threshold = 4;
 const int warning = 1000;
 const int scale = 2;
-const int extra_credits = 5000;
+const int extra_credits = 2000;
 unsigned short samples[N];
 void loop() {
   // do sampling
